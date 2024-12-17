@@ -16,7 +16,7 @@ Ejercicio 6: Introducción a Boost Instala la biblioteca Boost en tu entorno de 
 Propuesta de Solución
 a continuación, se muestra una guía paso a paso de cómo podrías resolver estos ejercicios en CLion:
 
-Ejercicio 1: Vector e Iteradores
+### Ejercicio 1: Vector e Iteradores
 ```c
 #include <iostream>
 #include <vector>
@@ -31,7 +31,7 @@ int main() {
     return 0;
 }
 ```
-Ejercicio 2: Contenedores Estándar y Secuencias
+### Ejercicio 2: Contenedores Estándar y Secuencias
 ```c
 #include <iostream>
 #include <list>
@@ -49,7 +49,7 @@ int main() {
     return 0;
 }
 ```
-Ejercicio 3: Algoritmos
+### Ejercicio 3: Algoritmos
 ```c
 #include <iostream>
 #include <vector>
@@ -70,7 +70,7 @@ int main() {
 }
 ```
 
-Ejercicio 4: Cálculo numérico
+### Ejercicio 4: Cálculo numérico
 ```c
 #include <iostream>
 #include <valarray>
@@ -92,7 +92,7 @@ int main() {
     return 0;
 }
 ```
-Ejercicio 5: C++ Moderno
+### Ejercicio 5: C++ Moderno
 ```c
 #include <iostream>
 #include <vector>
@@ -114,7 +114,7 @@ int main() {
     return 0;
 }
 ```
-Ejercicio 6: Introducción a Boost
+### Ejercicio 6: Introducción a Boost
 ```c
 #include <iostream>
 #include <boost/lexical_cast.hpp>
