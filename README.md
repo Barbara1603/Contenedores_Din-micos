@@ -1,6 +1,6 @@
-#Contenedores_Din-micos
+# Contenedores_Din-micos
 
-##Enunciado
+## Enunciado
 Ejercicio 1: Vector e Iteradores Crea un programa que añada elementos a un vector de enteros mediante el uso del método push_back. Luego, utiliza un iterador para recorrer y mostrar cada elemento del vector.
 
 Ejercicio 2: Contenedores Estándar y Secuencias Realiza un programa que utilice el contenedor estándar list para almacenar una secuencia de números decimales. Luego, crea un adaptador de secuencia stack para este contenedor. Muestra cómo funcionan las operaciones push, pop y top en esta pila.
