@@ -17,7 +17,7 @@ Propuesta de Solución
 a continuación, se muestra una guía paso a paso de cómo podrías resolver estos ejercicios en CLion:
 
 Ejercicio 1: Vector e Iteradores
-'''
+```c
 #include <iostream>
 #include <vector>
 
@@ -30,9 +30,9 @@ int main() {
 
     return 0;
 }
-'''
+```
 Ejercicio 2: Contenedores Estándar y Secuencias
-
+```c
 #include <iostream>
 #include <list>
 #include <stack>
@@ -48,6 +48,7 @@ int main() {
 
     return 0;
 }
+```c 
 Ejercicio 3: Algoritmos
 
 #include <iostream>
