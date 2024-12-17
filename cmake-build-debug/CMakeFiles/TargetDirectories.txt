@@ -1,0 +1,3 @@
+C:/Users/barba/Documents/GitHub/Contenedores_Din-micos/cmake-build-debug/CMakeFiles/Contenedores_Din_micos.dir
+C:/Users/barba/Documents/GitHub/Contenedores_Din-micos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/barba/Documents/GitHub/Contenedores_Din-micos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
